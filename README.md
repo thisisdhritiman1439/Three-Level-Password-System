@@ -133,11 +133,4 @@ This project is licensed under the **MIT License**.
 
 ```
 
----
 
-Let me know if you’d like:
-- A `requirements.txt` generated.
-- Screenshot/image links embedded.
-- PDF export of the README.
-- Badge integrations (e.g., deployment status, license).
-```
